@@ -1,7 +1,7 @@
 package com.porfolio_jpa.argprograma.Controller;
 
-import com.porfolio_jpa.argPrograma.Entity.Persona;
-import com.porfolio_jpa.argPrograma.Service.ImpPersonaService;
+import com.porfolio_jpa.argprograma.Entity.Persona;
+import com.porfolio_jpa.argprograma.Service.ImpPersonaService;
 import com.porfolio_jpa.argprograma.Security.Controller.Mensaje;
 import com.porfolio_jpa.argprograma.Security.Dto.dtoPersona;
 import java.util.List;

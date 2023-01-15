@@ -1,8 +1,9 @@
 
-package com.porfolio_jpa.argPrograma.Service;
+package com.porfolio_jpa.argprograma.Service;
 
-import com.porfolio_jpa.argPrograma.Entity.Persona;
+import com.porfolio_jpa.argprograma.Entity.Persona;
 import com.porfolio_jpa.argPrograma.Repository.IPersonaRepository;
+import com.porfolio_jpa.argprograma.Entity.Persona;
 import java.util.List;
 import java.util.Optional;
 import javax.transaction.Transactional;

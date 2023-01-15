@@ -1,5 +1,5 @@
 
-package com.porfolio_jpa.argPrograma.Entity;
+package com.porfolio_jpa.argprograma.Entity;
 
 
 import javax.persistence.Entity;
