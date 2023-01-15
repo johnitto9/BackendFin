@@ -1,5 +1,5 @@
 
-package com.porfolio_jpa.argPrograma.Repository;
+package com.porfolio_jpa.argprograma.Repository;
 
 import com.porfolio_jpa.argprograma.Entity.Persona;
 import java.util.Optional;
