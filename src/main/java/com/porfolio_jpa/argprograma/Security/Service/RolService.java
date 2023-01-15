@@ -4,8 +4,8 @@ package com.porfolio_jpa.argprograma.Security.Service;
 import com.porfolio_jpa.argprograma.Security.Entity.Rol;
 import com.porfolio_jpa.argprograma.Security.Enums.RolNombre;
 import com.porfolio_jpa.argprograma.Security.Repository.IRolRepository;
-import jakarta.transaction.Transactional;
 import java.util.Optional;
+import javax.transaction.Transactional;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

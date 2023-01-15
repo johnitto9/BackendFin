@@ -3,7 +3,7 @@ package com.porfolio_jpa.argprograma.Service;
 
 import com.porfolio_jpa.argprograma.Entity.Experiencia;
 import com.porfolio_jpa.argprograma.Repository.RExperiencia;
-import jakarta.transaction.Transactional;
+import javax.transaction.Transactional;
 import java.util.List;
 import java.util.Optional;
 import org.springframework.beans.factory.annotation.Autowired;

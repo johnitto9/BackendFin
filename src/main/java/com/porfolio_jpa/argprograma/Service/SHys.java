@@ -3,7 +3,7 @@ package com.porfolio_jpa.argprograma.Service;
 
 import com.porfolio_jpa.argprograma.Entity.Hys;
 import com.porfolio_jpa.argprograma.Repository.RHys;
-import jakarta.transaction.Transactional;
+import javax.transaction.Transactional;
 import java.util.List;
 import java.util.Optional;
 import org.springframework.beans.factory.annotation.Autowired;
